@@ -1,2 +1,2 @@
 # Js-Fundamentals
-Udemy course - 
+Udemy course
